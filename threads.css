@@ -1,0 +1,46 @@
+.bttn-rads{
+    border-radius: 20px;
+    background-color: white;
+    color: #68486D;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    border: 1px solid transparent;
+    padding: 8px 24px;
+    font-weight: 600;
+}
+.bttn-bordered{
+    border-radius: 20px;
+    background-color: transparent!important;
+    border: 2px solid white;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+}
+.bttn-bordered:hover{
+    background-color: transparent!important;
+    border: 2px solid white;
+    color: white;
+}
+.bttn-rads:hover{
+    background-color: white;
+    color: #68486D;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.foont{
+    font-size: 20px;
+    line-height: 32px;
+    margin-top:24px;
+    margin-bottom: 40px;
+    color: white;
+
+}
+.header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 52px;
+    line-height:60px ;
+    color: white;
+}
